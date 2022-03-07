@@ -1,0 +1,6 @@
+module Pods_fullDP_fullDPTests {
+  umbrella header "Pods-fullDP-fullDPTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_fullDP {
+  umbrella header "Pods-fullDP-umbrella.h"
+
+  export *
+  module * { export * }
+}
