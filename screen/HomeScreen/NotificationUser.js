@@ -5,6 +5,8 @@ import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import icons from '../../constants/icons';
 import {COLORS, SIZES} from '../../constants/theme';
 
+// this is a notification page
+
 const NotificationUser = ({navigation}) => {
   return (
     
